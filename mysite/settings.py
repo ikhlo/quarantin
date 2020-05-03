@@ -25,7 +25,7 @@ SECRET_KEY = '2o-@)0f_+0&leyafu0&28401-xbe23c7fr6h9mm!n&1^z=@h)i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ikhlo.pythonanywhere.com']
 
 
 # Application definition
